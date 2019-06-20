@@ -332,3 +332,5 @@ ASALocalRun/
 # Others
 .vscode
 testes
+.ipynb_checkpoints
+xgboost
