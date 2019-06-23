@@ -1,5 +1,5 @@
 # Data Science Small Test
-My solution for a test that I've received for a Data Scientist position. The code was made in iPython/Jupyter Notebook, [you can access it here](https://israelmendez232.github.io/data-science-small-test.html).
+My solution for a test that I've received for a Data Scientist position. The code was made in iPython/Jupyter Notebook, [you can access it here](https://israelmendez232.github.io/teste-cientista-dados-crm/data-science-small-test.html).
 
 **Instructions**<br />
 ```
