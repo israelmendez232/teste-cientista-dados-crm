@@ -1,5 +1,5 @@
 # Data Science Small Test
-Segue minha solução para o teste de Cientista de Dados/CRM que recebi. As instruções do teste:
+My solution for a test that I've received for a Data Scientist position.
 
 **Instructions**
 1 – Choose the a language of interest (R / Python / Matlab)
